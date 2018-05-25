@@ -1,0 +1,9 @@
+[study]
+python_base = 15
+python_junior = 20
+linux_base = 15
+
+[login]
+name = zhaowenli1
+password = 12345
+
